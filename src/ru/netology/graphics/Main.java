@@ -1,7 +1,7 @@
 package ru.netology.graphics;
 
 import ru.netology.graphics.image.TextGraphicsConverter;
-import ru.netology.graphics.image.impl.TextGraphicConverterImpl;
+import ru.netology.graphics.image.TextGraphicConverterImpl;
 import ru.netology.graphics.server.GServer;
 
 public class Main {

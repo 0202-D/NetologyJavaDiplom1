@@ -1,6 +1,6 @@
-package ru.netology.graphics.image.impl;
+package ru.netology.graphics.image;
 
-import ru.netology.graphics.image.TextColorSchema;
+
 
 /**
  * @author Dm.Petrov
